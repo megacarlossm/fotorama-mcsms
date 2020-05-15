@@ -10,7 +10,7 @@ Place this link tag somewhere on the head tag.
 ```
 Place this script in the end of body tag.
 ```HTML
-<script type="text/javascript" src="https://raw.githubusercontent.com/megacarlossm/fotorama-mcsms/master/fotorama-mcsm.min.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/megacarlossm/fotorama-mcsms/master/fotorama-mcsm.js"></script>
 ```
 
 ### HTML
