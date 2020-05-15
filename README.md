@@ -16,8 +16,8 @@ Place this script in the end of body tag.
 ### HTML
 ```HTML
 <div class="fotorama" data-width="100%" data-maxheight="500px" data-nav="thumbs">
-	<a data-thumb="VideoThumbRoute" href="VideoRoute" data-type="video/mp4"></a>
-	<a data-thumb="VideoThumbRoute2" href="VideoRoute2" data-type="video/mp4"></a>
+  <a data-thumb="VideoThumbRoute" href="VideoRoute" data-type="video/mp4"></a>
+  <a data-thumb="VideoThumbRoute2" href="VideoRoute2" data-type="video/mp4"></a>
 </div>
 ```
 
