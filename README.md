@@ -10,6 +10,7 @@ Place this link tag somewhere on the head tag.
 ```
 Place this script in the end of body tag.
 ```HTML
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/megacarlossm/fotorama-mcsms/fotorama-mcsm.min.js"></script>
 ```
 
