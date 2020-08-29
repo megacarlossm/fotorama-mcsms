@@ -1885,8 +1885,7 @@ fotoramaVersion = "4.6.4",
         tc.escape
       }
       return c += ".fotorama" + (null == (b = a.s) ? "" : b) + " .fotorama__nav--thumbs .fotorama__nav__frame{\npadding:" + (null == (b = a.m) ? "" : b) + "px;\nheight:" + (null == (b = a.h) ? "" : b) + "px}\n.fotorama" + (null == (b = a.s) ? "" : b) + " .fotorama__thumb-border{\nheight:" + (null == (b = a.h - a.b * (a.q ? 0 : 2)) ? "" : b) + "px;\nborder-width:" + (null == (b = a.b) ? "" : b) + "px;\nmargin-top:" + (null == (b = a.m) ? "" : b) + "px}"
-    }, d.Fotorama.jst.video = function(a) {
-    	console.log(a);
+    }, d.Fotorama.jst.video = function(a) {	    
     	if(a.aux == "HTML5Video"){
 	      function b() {
 	        c += d.call(arguments, "")
