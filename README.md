@@ -1,5 +1,5 @@
 # fotorama-mcsms
-Modifying version of fotorama carousel, HTML5 video player included.
+Modifying version of fotorama carousel, HTML5 MP4 video player included.
 
 ## Usage
 
