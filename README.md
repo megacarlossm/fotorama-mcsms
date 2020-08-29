@@ -26,4 +26,4 @@ Place this script in the end of body tag.
 $(".fotorama").fotorama();
 ```
 
-Thats all what you have to do. This project only works with MP4 for now.
+Thats all what you have to do. This project only works with MP4 for now, and needs Jquery.
